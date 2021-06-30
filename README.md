@@ -26,7 +26,9 @@ Pre-order email: *sport-loto@mail.ru*
 
 ![](jlink_jtag20.png)
 
-### Blackpill pinout
+### Blackpill
+
+[WeAct Black Pill V2.0](https://stm32-base.org/boards/STM32F411CEU6-WeAct-Black-Pill-V2.0.html)
 
 ![](blackpill.png)
 
