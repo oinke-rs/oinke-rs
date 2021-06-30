@@ -18,8 +18,6 @@
 
 EXTRA LOW price during PRE-ORDER: **ONLY 69.09$**
 
-Pre-order email: *sport-loto@mail.ru*
-
 ## Support materials
 
 ### Segger Jlink JTAG 20 pinout
