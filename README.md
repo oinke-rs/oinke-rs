@@ -1,10 +1,10 @@
-# OINKERS NEW GENERATION DIY SINGLE BUTTON PRESSURE SENSING MACRO KEBOARD
+# OINKERS NEW GENERATION DIY SINGLE BUTTON PRESSURE SENSING MACRO KEYBOARD
 
 ![oinker](demo.jpg)
 
 ## Description
 
-**OINKERS** - new generation DIY single button pressure sensing macro keboard
+**OINKERS** - new generation DIY single button pressure sensing macro keyboard
 
 ## Features
 
